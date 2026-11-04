@@ -24,6 +24,7 @@ Full setup, commands and joint reference: **[docs/RUN_GUIDE.md](docs/RUN_GUIDE.m
 |---|---|
 | `arm_body_description/` | ROS 2 package: URDF/xacro, meshes, controllers, launch files |
 | `docs/RUN_GUIDE.md` | Install, build, RViz, Gazebo, joint/controller reference, troubleshooting |
+| `v2/` | **v2** from Fusion "Body + Arm v8": package `arm_body_v2_description`, see [v2/README.md](v2/README.md) |
 
 ## Key facts
 - 30 links, 14 controllable joints (6 per arm + 1 gripper per arm), 6.82 kg total
